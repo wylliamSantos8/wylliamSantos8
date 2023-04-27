@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wylliam Santos 👋
 
-## Tecnologias que já utilizei e tenho experiência.
+## Tecnologias e ferramentas que já utilizei e tenho experiência.
 
 <div style="display: inline_block"><br/>
   
