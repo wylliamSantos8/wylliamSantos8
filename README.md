@@ -29,6 +29,9 @@
   <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" />
   <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white" />
+  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Atlassian-0052CC.svg?style=for-the-badge&logo=Atlassian&logoColor=white" />
+  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Bamboo-0052CC.svg?style=for-the-badge&logo=Bamboo&logoColor=whitee" />
+  <img align="center" alt="hmtl5" src="https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white" />
   
 </div><br/>
 
